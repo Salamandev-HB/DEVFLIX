@@ -15,9 +15,7 @@ Ligne swan 2
 Tu as Git le git de fonctionnement compris?
 Nahima T
 >>>>>>> 5d3c42e (je m'inscruste)
-=======
-BRUUUUUUUUUUUUH #Anturia
-la STREEEEEET, ouèouèOuèèèè
+======
 >>>>>>> 7d16d1f (Lamodif)
-Y a pas internet wtf -Swan
+wifi is baaaaaack
 
