@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 div.texte {
             font-size: large;
             color : yellowgreen;
@@ -8,9 +7,8 @@ div.texte {
 .banniere {
            height : 500px;
          }          
-=======
 body{
-    background:green;
+    background-color:black;
 }
 #bann{
     position: relative;
@@ -34,4 +32,3 @@ p{
     color:white;
     font-size: larger;
 }
->>>>>>> 3e96607 (commitkemal)
