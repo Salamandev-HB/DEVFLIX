@@ -17,6 +17,7 @@ Nahima T
 >>>>>>> 5d3c42e (je m'inscruste)
 =======
 BRUUUUUUUUUUUUH #Anturia
-#Anturia, la STREEEEEET, ouèouèOuèèèè
+la STREEEEEET, ouèouèOuèèèè
 >>>>>>> 7d16d1f (Lamodif)
-Y a pas internet wtf 
+Y a pas internet wtf -Swan
+
