@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 div.texte {
             font-size: large;
             color : yellowgreen;
@@ -7,3 +8,30 @@ div.texte {
 .banniere {
            height : 500px;
          }          
+=======
+body{
+    background:green;
+}
+#bann{
+    position: relative;
+    top: 100px;
+
+}
+#ban{
+    width:900px;
+    margin-left: 60px;
+    margin-right: 50px;
+}
+.image img{
+    float: right;
+    position: relative;
+    left: 400px;
+    bottom:230px;
+    border-radius:15px;
+}
+
+p{
+    color:white;
+    font-size: larger;
+}
+>>>>>>> 3e96607 (commitkemal)
