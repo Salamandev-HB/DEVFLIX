@@ -20,4 +20,8 @@ Nahima T
 # DEVFLIX 
 BRUUUUUUUUUUUUH #Anturia
 >>>>>>> e8a39db (Mon message)
+<<<<<<< HEAD
 >>>>>>> a781572 (Message)
+=======
+Bertrand Pellerin <img align="left" height="1000" src="https://i.giphy.com/media/Oivne3ir8TzcA/giphy.webp">
+>>>>>>> e61cc6d (Bertrand Pellerin)
