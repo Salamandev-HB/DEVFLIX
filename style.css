@@ -1,12 +1,3 @@
-div.texte {
-            font-size: large;
-            color : yellowgreen;
-            position: right;
-          } 
-
-.banniere {
-           height : 500px;
-         }          
 body{
     background-color:black;
 }
