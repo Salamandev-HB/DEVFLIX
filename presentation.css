@@ -1,0 +1,34 @@
+body
+{
+    background:#303036;
+}
+#banniere
+{
+    width: 600px;
+   position: absolute;
+   margin-left: 750px;
+   margin-top: 40px;
+    border:solid;
+    border-color:#f4e70c;
+    border-radius: 5px;
+
+    
+}
+#logo
+{
+    position:absolute;
+    margin-left: 150px;
+}
+.presentationgrp
+{
+    
+}
+#textegrp
+{
+    color:white;
+   text-align: left;
+   padding-right: 900px;
+   padding-top: 150px;
+   padding-left: 130px;
+   font-size: 30px;
+}
