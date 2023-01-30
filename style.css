@@ -47,6 +47,9 @@
     width: 100%;
     height: 100vh;
 }
+.home { border: blue thin solid;
+    height: 90vw;
+    width: 100%;
 
 .d-block{
     border : solid pink 5px;
