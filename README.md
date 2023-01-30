@@ -10,7 +10,12 @@ sebastien PELC
 okékékékéké
 ligne Swannnn 1
 Ligne swan 2
+<<<<<<< HEAD
 =======
 Tu as Git le git de fonctionnement compris?
 Nahima T
 >>>>>>> 5d3c42e (je m'inscruste)
+=======
+BRUUUUUUUUUUUUH #Anturia
+
+>>>>>>> 7d16d1f (Lamodif)
