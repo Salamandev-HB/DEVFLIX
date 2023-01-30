@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *{
     margin: 0;
 }
@@ -103,7 +102,6 @@
     opacity: 100%;
     transform: rotate(0.5deg);
 }
-=======
 #background-video {
     height: 100vh;
     width: 100vw;
@@ -123,4 +121,3 @@
     margin-left: 50%;
     transform: translateX(-50%);
     }
->>>>>>> 4a35083 (8)
