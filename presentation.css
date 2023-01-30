@@ -6,7 +6,7 @@ body
 {
     width: 600px;
    position: absolute;
-   margin-left: 750px;
+   margin-left: 1150px;
    margin-top: 40px;
     border:solid;
     border-color:#f4e70c;
@@ -17,7 +17,7 @@ body
 #logo
 {
     position:absolute;
-    margin-left: 150px;
+    margin-left: 450px;
 }
 .presentationgrp
 {
@@ -31,4 +31,24 @@ body
    padding-top: 150px;
    padding-left: 130px;
    font-size: 30px;
+}
+#beber
+{
+    width: 280px;
+    height: 320px;
+    margin-top: 150px;
+    margin-left: 500px;
+    border:solid;
+    border-radius:5px;
+    border-color: rgb(110, 81, 50);
+    border-width: 10px;
+
+}
+#textebeber
+{
+    color:rgb(172, 164, 164); 
+    font-size: 15px;
+    padding-left: 450px;
+    padding-right: 1200px;
+    text-align: center;
 }
