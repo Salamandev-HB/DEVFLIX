@@ -1,8 +1,101 @@
-.home {
-
+*{
+    margin: 0;
 }
-.background { background-color: red;
-    height: 150px;
-    width: 100%;
 
+
+.background {
+    width: 100%;
+    height: 90vh;
+}
+.background video{
+    height: 90vh;
+    width: 100%;
+    object-fit: cover;
+}
+
+.galerie {
+    top: 475px;
+    position:absolute;
+    width: 100%;
+    height: 23vh;
+    background-color: orange;
+    z-index: 5;
+    opacity: 100%;
+}
+
+.carouselExampleSlidesOnly{
+    background-color: red;
+    width: 50px;
+    height: 50px;
+}
+
+.carroussel1 img{
+    width: 100%;
+    height: 100%;
+}
+
+.carousel-item{
+    width: 50px;
+}
+
+.carousel-inner{
+    border : 5px solid red;
+    width: 100%;
+}
+.carousel-item{
+    border: solid 5px green;
+    width: 100%;
+    height: 100vh;
+}
+
+.d-block{
+    border : solid pink 5px;
+    width: 100%;
+    height: 50x;
+}
+
+
+/* .galerie2{
+    display: grid;
+    background-color: red;
+    width: 100%;
+    height: 100vh;
+    grid-template-columns:30% 30% 30%;
+    grid-template-rows: 80% 80% 80% 80% 80%;
+    grid-gap: 10px;
+    justify-content: center;
+    grid-template-areas:
+    "COUPE1 COUPE2 COUPE3"
+    "COUPE4 COUPE5 COUPE6"
+    "COUPE7 COUPE8 COUPE9"
+    "COUPE10 COUPE11 COUPE12"
+    "COUPE13 COUPE14 COUPE15"
+    "basDePage basDePage basDePage"
+} */
+
+
+.galerie2{
+    background-color: #0A0908;
+    display: flex;
+    width: 100%;
+    height: auto;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+
+.galerie2 img{
+    margin: 5px 5px;
+    width: 230px;
+    height: auto;
+    opacity: 55%;
+    border: #EAE0D5 solid 5px;
+    transition: all 0.3s;
+ 
+}
+.galerie2 img:hover{
+    opacity: 100%;
+    transform: rotate(0.5deg);
 }
